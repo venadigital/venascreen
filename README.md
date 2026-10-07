@@ -13,6 +13,10 @@
   macOS 14 o superior · Swift, AppKit y SwiftUI · Sin red · Gratis y de código abierto
 </p>
 
+<p align="center">
+  <img src="docs/demo.gif" width="720" alt="La línea de VenaScreen baja con las capturas colgadas, se toma una captura nueva y se edita con un óvalo y un texto">
+</p>
+
 ---
 
 ## Qué hace
