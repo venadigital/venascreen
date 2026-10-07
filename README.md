@@ -95,4 +95,4 @@ VenaScreen parte de [Tendedero](https://github.com/alejandrobujan/tendedero), de
 
 ## Licencia
 
-El código es MIT. Consulta [LICENSE](LICENSE). El nombre VenaScreen y el logo de Vena Digital no están cubiertos por la licencia. Las versiones redistribuidas deben usar su propio nombre e ícono, igual que pide Tendedero.
+El código es MIT. Consulta [LICENSE](LICENSE). El nombre VenaScreen y el logo de Vena Digital no están cubiertos por la licencia. Las condiciones de los nombres e íconos están en [TRADEMARKS.md](TRADEMARKS.md).
